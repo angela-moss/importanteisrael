@@ -1,0 +1,6 @@
+10.35.1.0/27 via 172.22.47.96 dev ztks5tiql3
+
+10.35 es la red de alisys, esta red tiene que ser la de israel. 
+
+Para agregar
+ip route add redisrael via 172.22.47.96
